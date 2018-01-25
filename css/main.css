@@ -1,0 +1,32 @@
+﻿hr{
+    border:none;
+    background-color:#d1caca;
+    height:.15em;
+}
+
+table{
+   width:100%;
+}
+
+.container{
+    width:50%;
+}
+
+.form-group,
+button{
+    margin: 0.5em;
+}
+
+.container {
+    padding:0;
+    margin: 10em auto 10em auto;
+    border: 0.2em solid #9b9595;
+}
+thead tr td a {
+    padding:2em 1em 2em 1em;
+}
+
+thead tr{
+    height:2em;
+}
+    
